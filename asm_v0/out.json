@@ -1,0 +1,44 @@
+[
+  {
+    "subdomain": "idn.id",
+    "dns": {
+      "resolved": true,
+      "a": [
+        "52.163.69.117"
+      ],
+      "aaaa": [
+        "::ffff:52.163.69.117"
+      ]
+    },
+    "http": {
+      "http": {
+        "alive": true,
+        "status": 200,
+        "final_url": "https://www.idn.id/",
+        "rt_ms": 654,
+        "redirects": 2,
+        "title": "ID-Networkers - Training Cisco Mikrotik Juniper Programming Sysadmin Terbaik Di Indonesia",
+        "headers": {
+          "server": "nginx/1.18.0 (Ubuntu)"
+        }
+      },
+      "https": {
+        "alive": true,
+        "status": 200,
+        "final_url": "https://www.idn.id/",
+        "rt_ms": 223,
+        "redirects": 1,
+        "title": "ID-Networkers - Training Cisco Mikrotik Juniper Programming Sysadmin Terbaik Di Indonesia",
+        "headers": {
+          "server": "nginx/1.18.0 (Ubuntu)"
+        },
+        "tls": {
+          "days_to_expire": 54
+        }
+      }
+    },
+    "tags": [],
+    "domain_input": "idn.id",
+    "timestamp": "2026-01-13T16:45:20.979179+00:00"
+  }
+]
